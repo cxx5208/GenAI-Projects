@@ -42,7 +42,3 @@ ATS-Smart enhances traditional Applicant Tracking Systems by incorporating AI to
 - **AI-Powered Screening:** Automatically screens resumes and matches candidates to job descriptions.
 - **Efficiency:** Reduces the manual effort required in the hiring process, accelerating time-to-hire.
 - **Accuracy:** Improves the quality of shortlists by leveraging AI to identify the best candidates based on job criteria.
-
----
-
-This format keeps all projects well-organized and provides detailed descriptions that should help users understand the purpose and functionality of each project without unnecessary filler.
